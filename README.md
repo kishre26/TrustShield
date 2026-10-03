@@ -98,4 +98,4 @@ Always cross-reference suspicious content with authoritative sources.
 
 ---
 
-*Built with vanilla JavaScript — no frameworks, no tracking, no external requests.*
+*This project is done with the help of IBM BOB*
