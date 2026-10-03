@@ -100,4 +100,8 @@ Always cross-reference suspicious content with authoritative sources.
 
 ---
 
+## License
+
+MIT
+
 *This project is done with the help of IBM BOB*
