@@ -2,6 +2,8 @@
 
 A lightweight, browser-based tool that analyzes text for signs of phishing attacks and misinformation using a multi-signal heuristic engine.
 
+### Live Demo: https://kishre26.github.io/TrustShield/
+
 ---
 
 ## 📁 Project Structure
